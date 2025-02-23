@@ -2,8 +2,7 @@
 
 I'm Muhammad Firdaus Abdullah, an individual passionate about Data Science, analytical analysis, and machine learning.
 
-- Currently working as a Senior QC Executive
-- Engaged in exploring Data Science, analytical analysis, and machine learning
+- Currently in exploring Data Science, analytical analysis, and machine learning
 
 <!--
 **[YourGitHubUsername/YourGitHubUsername](https://github.com/YourGitHubUsername/YourGitHubUsername)** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
